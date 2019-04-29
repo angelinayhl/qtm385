@@ -21,6 +21,8 @@ The end point link:
 
 ```
 https://fl7ll8o9kc.execute-api.us-east-1.amazonaws.com/prod/hw4
+
 ```
 
+## Note: Lambda-function.py in AWS is the same as hw4.py. The only difference is the name
 
